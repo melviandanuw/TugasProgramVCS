@@ -19,8 +19,10 @@
 https://git-scm.com/downloads
 ```
 2. Lakukan Instalasi
+
 ![melvian](./images/install.png)
-<br>
+
+
 ![melvian](./images/install2.png)
 
 3. Cek Instalasi GIT melalui CMD/Bash dengan command berikut:
