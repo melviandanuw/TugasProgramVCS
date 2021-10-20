@@ -20,6 +20,7 @@ https://git-scm.com/downloads
 ```
 2. Lakukan Instalasi
 ![melvian](./images/install.png)
+<br>
 ![melvian](./images/install2.png)
 
 3. Cek Instalasi GIT melalui CMD/Bash dengan command berikut:
@@ -36,12 +37,15 @@ git --version
 https://github.com/
 ```
 2. Klik Sign Up
+
 ![signUp](./images/github.png)
 
 3. Masukan Infomasi yang dibutuhkan untuk mendaftar.
+
 ![signUp2](./images/github-account.png)
 
 4. Akun sudah berhasil dibuat.
+
 ![github](./images/git-repo.png)
 ---
 <br>
